@@ -4,6 +4,8 @@
 
 ## 1. 本记录的用途
 
+公开发布：`https://github.com/iitly/cumcm-modeling-skill`（public，iitly × Hermes，MIT）。该仓库是技能本体的镜像，本地目录仍是主工作副本；改完跑 `scripts/validate_skill.py` 与 `scripts/test_validate_skill.py` 再同步。上传走 `github-upload` 技能的 API 脚本，不用 git push。
+
 这里只保留历史撤销项与维护取舍，不另立一套权限或质量门。当前授权、封版保护和验收均按主文件；明确要求本轮改良就是本轮授权，不重复索取同意。
 
 回退副本和审计记录保存在用户约定的数据盘维护目录；具体运行记录不灌进每次加载的主流程。
